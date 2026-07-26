@@ -1,0 +1,4 @@
+✅ Registration is completed!
+✅ Logout is completed!
+✅ Login is completed!
+Exception occured while clicking 'search
